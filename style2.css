@@ -1,0 +1,27 @@
+
+.box{
+    position: relative;
+}
+.input
+{
+    width: 24%;
+    padding: 22px 20px;
+    border-radius:4px;
+    border-color: aliceblue;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(247, 175, 151);
+    box-shadow: 7px 7px 10px #66a09b,
+    -7px -7px 10px #c07777;
+}
+.input:hover
+{
+    cursor: pointer;
+    width: 24%;
+    padding: 22px 20px;
+    border-radius: 4px;
+    display: flex;
+    box-shadow: 7px 7px 10px #c07777,
+    -7px -7px 10px #66a09b;  
+}
